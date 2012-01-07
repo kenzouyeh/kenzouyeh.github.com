@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[[Kenzou:~/blog]]]></title>
-  <link href="http://kenzouyeh.github.com/atom.xml" rel="self"/>
-  <link href="http://kenzouyeh.github.com/"/>
-  <updated>2012-01-08T01:18:21+08:00</updated>
-  <id>http://kenzouyeh.github.com/</id>
+  <link href="http://kenzou.cc/atom.xml" rel="self"/>
+  <link href="http://kenzou.cc/"/>
+  <updated>2012-01-08T01:49:49+08:00</updated>
+  <id>http://kenzou.cc/</id>
   <author>
     <name><![CDATA[Kenzou Yeh]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://kenzouyeh.github.com/blog/2012/01/07/hello-world-slash/"/>
+    <link href="http://kenzou.cc/blog/2012/01/07/hello-world-slash/"/>
     <updated>2012-01-07T22:22:00+08:00</updated>
-    <id>http://kenzouyeh.github.com/blog/2012/01/07/hello-world-slash</id>
+    <id>http://kenzou.cc/blog/2012/01/07/hello-world-slash</id>
     <content type="html"><![CDATA[<p>Hello World!</p>
 ]]></content>
   </entry>
