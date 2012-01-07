@@ -6,4 +6,6 @@ comments: true
 categories: 
 ---
 
-Hello World!
+``` python printing "Hello World"
+print "Hello World!"
+```
