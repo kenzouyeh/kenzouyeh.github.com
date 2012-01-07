@@ -19,3 +19,22 @@
 //$sidebar-pad-medium: 15px;
 //$sidebar-pad-wide: 20px;
 //$sidebar-width-wide: 300px;
+$title-color: #611;
+$subtitle: #999;
+$header-bg: #fff;
+$main-bg: #fff;
+$page-bg: #fff;
+$nav-bg: #fff;
+$nav-bg-front: image-url('a.png');
+$nav-bg-back: linear-gradient(lighten($nav-bg, 8), $nav-bg, lighten($nav-bg, 11));
+$sidebar-bg: #fff;
+$footer-bg: #fff;
+$footer-bg-front: image-url('a.png');
+$footer-bg-back: linear-gradient(lighten($nav-bg, 8), $nav-bg, lighten($nav-bg, 11));
+html {
+    background: #fff top left;
+}
+
+body {
+    background: #fff;
+}
