@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[[Kenzou:~/blog]]]></title>
-  <link href="http://kenzou.cc/atom.xml" rel="self"/>
+  <title><![CDATA[Category: MongoDB | [Kenzou:~/blog]]]></title>
+  <link href="http://kenzou.cc/blog/categories/mongodb/atom.xml" rel="self"/>
   <link href="http://kenzou.cc/"/>
   <updated>2012-01-10T20:02:08+08:00</updated>
   <id>http://kenzou.cc/</id>
@@ -18,23 +18,11 @@
     <link href="http://kenzou.cc/blog/2012/01/10/my-slides-of-mongodb-at-clous-dot-tw/"/>
     <updated>2012-01-10T19:53:00+08:00</updated>
     <id>http://kenzou.cc/blog/2012/01/10/my-slides-of-mongodb-at-clous-dot-tw</id>
-    <content type="html"><![CDATA[<p>This is the slides of my talk @ Cloud.TW. Probably, I&#8217;ll talk about CouchDB next time. :-)</p>
+    <content type="html"><![CDATA[<p>This is the slides of my talk @ Cloud.TW. Probably, I'll talk about CouchDB next time. :-)</p>
 
 <div style="width:425px" id="__ss_10648746"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/kenzouyeh/heavenorhellmongodb" title="HeavenORHell,MongoDB" target="_blank">HeavenORHell,MongoDB</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/10648746" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> <div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/kenzouyeh" target="_blank">kenzouyeh</a> </div> </div>
 
 
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://kenzou.cc/blog/2012/01/07/hello-world-slash/"/>
-    <updated>2012-01-07T22:22:00+08:00</updated>
-    <id>http://kenzou.cc/blog/2012/01/07/hello-world-slash</id>
-    <content type="html"><![CDATA[<figure class='code'><figcaption><span>printing &#8220;Hello World&#8221;</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="k">print</span> <span class="s">&quot;Hello World!&quot;</span>
-</span></code></pre></td></tr></table></div></figure>
 
 ]]></content>
   </entry>
