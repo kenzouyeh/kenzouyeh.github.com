@@ -9,7 +9,7 @@ categories: entrepreneurship
 那天有幸去參加了[FounderSquad](http://www.foundersquad.com)的聚會，能碰到[David Dupony](http://www.facebook.com/david.dupouy)真是令人感到興奮，
 FounderSquad的聚會目的是要提供entrepreneur們提出自己的問題，然後讓其他的與會參與者一起腦力激盪來想出解法，也順便建立一個供創業家認識彼此的小圈圈。
 
-那天David提到「Pivot」，Pivot是什麼？Pivot對創業的過程來說是非常重要的，我們必須在開發服務的過程中不停的檢視自己產品的優缺點，並時時修正方向，但是Pivot並不是指
+會議結束後，David提到「Pivot」，Pivot是什麼？Pivot對創業的過程來說是非常重要的，我們必須在開發服務的過程中不停的檢視自己產品的優缺點，並時時修正方向，但是Pivot並不是指
 **砍掉重練**，是的，很多人誤解了Pivot的意思，包括某些常常提及Lean Startup的知名Incubator organizer（大誤）。有很多的案例顯示出有大多的Startup做了一個新的服務，發現表現不如預期，再換下一個，然後又做了第三個，
 這件事情有一件非常致命的缺點，那就是沒有**停損點**，更糟糕的是，一些可能會變得非常美好的產品就這樣的被創業家自己放棄了。
 
