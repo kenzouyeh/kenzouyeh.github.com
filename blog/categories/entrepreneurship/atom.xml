@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[[Kenzou:~/blog]]]></title>
-  <link href="http://kenzou.cc/atom.xml" rel="self"/>
+  <title><![CDATA[Category: entrepreneurship | [Kenzou:~/blog]]]></title>
+  <link href="http://kenzou.cc/blog/categories/entrepreneurship/atom.xml" rel="self"/>
   <link href="http://kenzou.cc/"/>
   <updated>2012-02-01T02:41:01+08:00</updated>
   <id>http://kenzou.cc/</id>
@@ -30,32 +30,6 @@ FounderSquad的聚會目的是要提供entrepreneur們提出自己的問題，�
 <p>所以創業家們，不要在對於自己的產品猶豫不決了或是輕易的把它放棄，當對自己的產品有疑問的時候，和別人討論吧，請花費十二萬分的努力讓它更能面對使用者，請把它當做自己剛出世的小孩一樣教它很多事，陪著它成長。這才叫做Pivot，才叫做創業，因為我們正在做的事情是那些窩在安逸的環境裡的一般人無法了解的，因為只有我們自己知道這個夢想有多麼美麗，而能夠實踐這個願景的人就只有我們自己而已。</p>
 
 <p>相信自己，相信自己的夥伴，相信自己的產品。我們要Pivot再Pivot，總有一天別人會接受這個最初只有我們懂的夢想！</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[my slides of MongoDB @ Cloud.TW]]></title>
-    <link href="http://kenzou.cc/blog/2012/01/10/my-slides-of-mongodb-at-clous-dot-tw/"/>
-    <updated>2012-01-10T19:53:00+08:00</updated>
-    <id>http://kenzou.cc/blog/2012/01/10/my-slides-of-mongodb-at-clous-dot-tw</id>
-    <content type="html"><![CDATA[<p>This is the slides of my talk @ Cloud.TW. Probably, I&#8217;ll talk about CouchDB next time. :-)</p>
-
-<div style="width:425px" id="__ss_10648746"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/kenzouyeh/heavenorhellmongodb" title="HeavenORHell,MongoDB" target="_blank">HeavenORHell,MongoDB</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/10648746" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> <div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/kenzouyeh" target="_blank">kenzouyeh</a> </div> </div>
-
-
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://kenzou.cc/blog/2012/01/07/hello-world-slash/"/>
-    <updated>2012-01-07T22:22:00+08:00</updated>
-    <id>http://kenzou.cc/blog/2012/01/07/hello-world-slash</id>
-    <content type="html"><![CDATA[<figure class='code'><figcaption><span>printing &#8220;Hello World&#8221;</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="k">print</span> <span class="s">&quot;Hello World!&quot;</span>
-</span></code></pre></td></tr></table></div></figure>
-
 ]]></content>
   </entry>
   
